@@ -10,12 +10,11 @@
   width="500" height="333"
   </head>
   <body>
-   <nav>
-      <a href="./index.html">Home</a>
-      <a href="./about.html">CSS</a>
+   
+      <a href="./index.html">Link 1</a>
+      <a href="./about.html">CSS Link</a>
 
       
-    
-    </nav>
+   
   </body>
 </html>
